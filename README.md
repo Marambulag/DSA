@@ -33,6 +33,10 @@ The main menu of the program (shown below) lets you explore and interact with di
 
 🧩 Maze Solver – Pathfinding demonstration using search algorithms
 
-📸 Example main menu:
+## Example main menu:
 ![Superhero Name Generator Input](./img/img2.png)
+
+
+## Example algorithm:
+![Superhero Name Generator Input](./img/img3.png)
 
